@@ -159,9 +159,3 @@ If you're building this from scratch, test each module independently before inte
 | Interrupt switch | EINT (configured in `EXT_Interrupt_defines.h`) |
 
 > Confirm exact pin assignments against your board's schematic and the respective `_defines.h` files.
-
----
-
-## License
-
-This project was developed as part of an embedded systems training program at Vector India. Feel free to use it as a reference or learning resource.
